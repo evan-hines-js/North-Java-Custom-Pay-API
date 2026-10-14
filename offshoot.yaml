@@ -1,0 +1,9 @@
+{
+  "databases": [
+    {
+      "name": "insurance-demo",
+      "source": "insurance-demo"
+    }
+  ],
+  "version": 1
+}
